@@ -1,0 +1,365 @@
+# First snapshot of the Real Seeds catalogue (21 Nov 2026), read page by page.
+# page | section | variety | seed count | organic | label
+aubergines.html|Aubergines|Tsakoniki Striped Aubergine||no|GUEST VARIETY FOR TRIAL
+aubergines.html|Aubergines|Ronde de Valence|20 seed|no|
+aubergines.html|Aubergines|Long Purple|20 seed|no|
+aubergines.html|Aubergines|De Barbentane|22 seed|no|
+aubergines.html|Aubergines|Black Beauty|22 seed|no|
+aubergines.html|Aubergines|Diamond|18 seed|no|
+aubergines.html|Aubergines|Krasan Early Aubergine|about 20 seed|no|HEAVY CROPPING
+herbs.html|Herbs|Frise Vert Fonce Parsley|1.5g seed|no|
+herbs.html|Herbs|Gigante di Napoli Parsley|1.5g seed|no|
+herbs.html|Herbs|Dutch Mammoth Dill|1g seed|no|
+herbs.html|Herbs|Coriander - leaf selection|several hundred seed|yes|
+herbs.html|Herbs|Purple Basil|400 seed|no|
+herbs.html|Herbs|Cinnamon Basil|400 seed|no|
+herbs.html|Herbs|Lemon Basil|400 seed|no|
+herbs.html|Herbs|Mammoth Lettuce-Leaf Basil|400 seed|no|
+herbs.html|Herbs|Finissimo Basil|400 seed|no|IDEAL FOR WINDOWSILLS
+herbs.html|Herbs|Sweet Genovese Basil|400 seed|no|
+beans.html|Bush or Dwarf French Bean|Vittoria Early Bush Bean|about 100 seed|no|GUEST VARIETY FOR TRIAL
+beans.html|Bush or Dwarf French Bean|Slenderette Bush Bean|about 100 seed|no|GUEST VARIETY FOR TRIAL
+beans.html|Bush or Dwarf French Bean|Starazogorski Dwarf French Bean|80-85 seed|no|GUEST VARIETY FOR TRIAL
+beans.html|Bush or Dwarf French Bean|'Purple Queen' Bush Bean|approx 80 seed|yes|
+beans.html|Bush or Dwarf French Bean|'Maxidor' Yellow Bush Bean|approx 120 seed|no|
+beans.html|Bush or Dwarf French Bean|Golden Teepee - Yellow Bush Bean|approx 100 seed|no|GUEST VARIETY FOR TRIAL
+beans.html|Bush or Dwarf French Bean|'Dior' Yellow Filet Bush Bean|approx 100 seed|yes|
+beans.html|Bush or Dwarf French Bean|'Marvel of Piemonte' Stripey Bush Bean|about 80 seed|no|HEAVY CROPPING
+beans.html|Bush or Dwarf French Bean|'Stregonta' Stringless Bush Bean|50 seed|no|DUAL USE
+beans.html|Bush or Dwarf French Bean|Saxa Early Bush Bean|about 90 seed|no|GUEST VARIETY FOR TRIAL
+broadbeanseed.html|Broad Bean Seed|Leidse Hangdown|40 seed|no|
+broadbeanseed.html|Broad Bean Seed|Grano Violetto Early|at least 35 seed|no|NEW TRIAL VARIETY
+broadbeanseed.html|Broad Bean Seed|Long Cascine|30 seed|no|
+broadbeanseed.html|Broad Bean Seed|Ratio|35 seed|yes|
+broadbeanseed.html|Broad Bean Seed|Aquadulce Longpod|40-45 seed|yes|
+beans_climbing.html|Climbing French Bean|'Cherokee Trail of Tears' Pole Bean|approx 70 seed|no|
+beans_climbing.html|Climbing French Bean|'Cosse Violette' Purple Pole Bean|approx 70 seed|no|
+beans_climbing.html|Climbing French Bean|'Coco Sophie' Flat Pole Bean|40 seed|yes|RARE
+beans_climbing.html|Climbing French Bean|'Neckargold' Yellow Flat-podded Pole Bean|80 seed|no|
+beans_climbing.html|Climbing French Bean|'Lazy Housewife' Pole Bean|approx 50 seed|no|
+beans_climbing.html|Climbing French Bean|'Princess' Flat-podded Pole Bean|approx 40 seed|yes|VERY RARE
+beans_climbing.html|Climbing French Bean|'Early Marvel of Venice' Yellow Pole Bean|about 90 seed|no|
+runnerbeans.html|Runner Bean Seed|The Czar|approx 40 seed|no|
+runnerbeans.html|Runner Bean Seed|Greek Gigantes|18-22 seed|no|
+runnerbeans.html|Runner Bean Seed|Rhondda Black|14 seed|yes|
+runnerbeans.html|Runner Bean Seed|Stringless Emergo|30-35 seed|no|DUAL PURPOSE
+beetroot.html|Beetroot|Touchstone Gold Beetroot|150 seed|yes|
+beetroot.html|Beetroot|'Albino' White Beetroot|approx 180 seed|no|
+beetroot.html|Beetroot|Chioggia Golden Orange Bicolour Beetroot|approx 180 seed|yes|
+beetroot.html|Beetroot|Sanguina|approx 250 seed|no|
+beetroot.html|Beetroot|'Golden Detroit' Yellow Beetroot|200 seed|no|
+beetroot.html|Beetroot|'Burpees Golden' Yellow Beetroot|about 240 seed|no|
+beetroot.html|Beetroot|Mulatka|approx 150 seed|no|
+beetroot.html|Beetroot|Early Turnip-rooted Egyptian|about 250 seed|no|
+beetroot.html|Beetroot|Karkulka|200 seed|no|
+beetroot.html|Beetroot|Formanova|200 seed|yes|GUEST VARIETY FOR TRIAL
+broccoli.html|Normal Broccoli or Calabrese|Quick Heading Calabrese|200 seed|yes|
+broccoli.html|Normal Broccoli or Calabrese|Green Heading Calabrese|300 seed|no|
+broccoli.html|Sprouting Broccoli|Early Purple Sprouting Broccoli|at least 200 seed|no|
+broccoli.html|Sprouting Broccoli|Asparagus Kale|250 seed|no|
+brusselsprouts.html|Brussels Sprouts|Roodnerf|200 seed|no|
+brusselsprouts.html|Brussels Sprouts|Groninger|250 seed|no|
+brusselsprouts.html|Brussels Sprouts|Sanda|300 seed|no|
+brusselsprouts.html|Brussels Sprouts|Long Island|200 seed|no|
+cabbage.html|Spring Cabbages|Baccalan de Rennes Spring Cabbage|approx 300 seed|no|
+cabbage.html|Spring Cabbages|Durham Early|300 seed|no|
+cabbage.html|Summer Cabbages|Copenhagen Market Summer Cabbage|approx 300 seed|no|
+cabbage.html|Summer Cabbages|Nantais Hatif Summer or Autumn Cabbage|300 seed|no|
+cabbage.html|Summer Cabbages|Golden Acre Summer Cabbage|approx 250 seed|no|
+cabbage.html|Summer Cabbages|Belarusskaya 455 Summer/Autumn Cabbage|180 seed|yes|
+cabbage.html|Summer Cabbages|Great Oxheart Summer/Autumn Cabbage|300 seed|no|
+cabbage.html|Summer Cabbages|Greyhound Summer/Autumn Cabbage|250 seed|no|
+cabbage.html|Summer Cabbages|Hope (Nadezda) Summer/Autumn Cabbage|about 200 seed|yes|
+cabbage.html|Autumn Cabbages|Rouge Tete Noir Late Summer/Early Autumn Cabbage|300 seed|no|
+cabbage.html|Autumn Cabbages|Kalibos Late Summer/Autumn Cabbage|about 200 seed|no|POINTY
+cabbage.html|Winter Cabbages|Des Vertus Savoy Winter Cabbage|250 seed|no|
+cabbage.html|Winter Cabbages|Ironhead Savoy Early Winter Cabbage|300 seed|no|
+cabbage.html|Winter Cabbages|Saint Michael of Verona Purple Winter Cabbage|300 seed|no|
+cauliflower.html|Spring-Heading / Summer-Heading Cauliflowers|All the Year Round|200 seed|no|GENERAL PURPOSE
+cauliflower.html|Autumn Cauliflowers|Verde di Macerata|about 200 seed|no|GREEN
+cauliflower.html|Autumn Cauliflowers|Autumn Giant|about 200 seed|no|
+cauliflower.html|Autumn Cauliflowers|Sicilia Violetta|200 seed|no|PURPLE
+cauliflower.html|Autumn Cauliflowers|Early Autumn Romanesco|about 200 seed|no|
+cauliflower.html|Autumn Cauliflowers|Magic Mix of Cauliflowers|about 200 seed|no|NEW
+carrots.html|Carrots|Kuroda|about 1000 seed|no|
+carrots.html|Carrots|Muscade|about 1000 seed|no|
+carrots.html|Carrots|Blanche a Collet Vert|about 1000 seed|no|WHITE AND GREEN
+carrots.html|Carrots|Saint Valery|about 1000 seed|no|
+carrots.html|Carrots|Beauty (Kraska) Carrot|400 seed|no|
+carrots.html|Carrots|Lisse de Meaux|about 1000 seed|yes|GOOD FOR STORAGE
+carrots.html|Carrots|D'Eysines Carrot|about 500 seed|yes|HUGE FAT CARROTS
+carrots.html|Carrots|Autumn King|about 1000 seed|yes|
+carrots.html|Carrots|Kardilla Storage Carrot||no|
+carrots.html|Carrots|Blood Red|500 seed|yes|
+carrots.html|Carrots|Manchester Table Carrot|about 400 seed|yes|
+carrots.html|Carrots|Jaune Obtuse de Doubs|about 1000 seed|yes|YELLOW
+carrots.html|Carrots|Giant Red|about 800 seed|no|
+carrots.html|Carrots|Touchon|about 1000 seed|no|STORES WELL
+celery.html|Celery and Celeriac|Golden Self-blanching Celery|approx 2000 seed|no|
+celery.html|Celery and Celeriac|'Amsterdam Cutting' Celery|over 1000 seed|yes|
+celery.html|Celery and Celeriac|'Giant Prague' Celeriac|400 seed|no|IMPROVED STRAIN
+chicory.html|Chicory|Sugarloaf Chicory|500 seed|no|
+chicory.html|Chicory|Lusia Chicory|600 seed|no|
+chicory.html|Chicory|Ingegnoli's Self-Blanching Chicory|600 seed|no|
+chicory.html|Chicory|'Romanesca Cutting' Salad Endive|hundreds of seed|no|
+chicory.html|Chicory|Palla Rossa 3 Red Heading Chicory|at least 1000 seed|no|
+courgettes.html|Courgettes & Summer Squash|Long Sicilian White Courgette|14 seed|no|
+courgettes.html|Courgettes & Summer Squash|Friuliano Summer Squash|12 seed|no|
+courgettes.html|Courgettes & Summer Squash|'Nice Round' Ball Courgette|14 seed|no|NEW
+courgettes.html|Courgettes & Summer Squash|'Bennings Green Tint'|12 seed|yes|
+courgettes.html|Courgettes & Summer Squash|White and Cream Crookneck|10 seed|no|
+courgettes.html|Courgettes & Summer Squash|'Patisson Blanc' White Patty-Pan Squash|14 seed|no|
+courgettes.html|Courgettes & Summer Squash|Early Prolific Straightneck Summer Squash|12 seed|yes|
+courgettes.html|Courgettes & Summer Squash|'Summer Crookneck'|12 seed|no|
+courgettes.html|Courgettes & Summer Squash|'Tromboncino'|12 seed|no|
+courgettes.html|Courgettes & Summer Squash|Trieste White Cousa Courgette|12 seed|yes|
+courgettes.html|Courgettes & Summer Squash|'Verde di Italia' Pale Green Ribbed Courgette|14 seed|no|
+courgettes.html|Courgettes & Summer Squash|'Caserta' Courgette|12 seed|no|NEW
+courgettes.html|Courgettes & Summer Squash|'Striato d'Napoli' Courgette|12 seed|no|
+courgettes.html|Courgettes & Summer Squash|'Verde di Milano' Dark Green Bush Courgette|14 seed|yes|
+courgettes.html|Courgettes & Summer Squash|'Burpees Golden Zucchini'|12 seed|yes|YELLOW
+cucumbers.html|Real Cucumbers|Barratts XXL Giant Cucumber|8 seed|no|
+cucumbers.html|Real Cucumbers|Chengelkoy|10 seed|no|
+cucumbers.html|Real Cucumbers|'Boothby's Blond'|16 seed|no|YELLOW
+cucumbers.html|Real Cucumbers|'Edens Burpless Tasty Green'|8 seed|no|
+cucumbers.html|Real Cucumbers|Siberian Podarok|12 seed|no|
+cucumbers.html|Real Cucumbers|Poona Kheera|14 seed|no|
+cucumbers.html|Real Cucumbers|'Miniature White'|15 seed|no|
+cucumbers.html|Real Cucumbers|'Gergana'|10 seed|yes|
+cucumbers.html|Real Cucumbers|Dragon's Egg|14 seed|no|
+cucumbers.html|Real Cucumbers|'Early Fortune'|14 seed|no|
+cucumbers.html|Real Cucumbers|'Parisian Pickling'|25 seed|no|
+cucumbers.html|Real Cucumbers|'Tamra'|10 seed|yes|
+cucumbers.html|Real Cucumbers|'Wautoma'|10 seed|yes|
+fennel.html|Fennel|Perfection Fennel|200 seed|yes|RARE
+fennel.html|Fennel|'Mammoth' Fennel|250 seed|no|
+fennel.html|Fennel|'Mantovano' Spring-sowable Fennel|200 seed|no|
+kale.html|Kale|Homesteader's Kale Mix|about 100 seed|yes|
+kale.html|Kale|Red Curly Kale|230 seed|no|
+kale.html|Kale|True Siberian Kale|200 seed|yes|
+kale.html|Kale|Red Ursa Kale|200 seed|yes|
+kale.html|Kale|Asparagus Kale|250 seed|yes|
+kale.html|Kale|East Friesian Palm Kale|200 seed|yes|
+kale.html|Kale|Red Ruffled Kale|200 seed|yes|
+kale.html|Kale|Sutherland Kale|at least 250 seed|yes|
+kale.html|Kale|Dazzling Blue Kale|250 seed|yes|
+kale.html|Kale|Nero di Toscana (early strain)|200 seed|yes|
+kohlrabi.html|Kohl Rabi|Gigant|200 seed|no|
+kohlrabi.html|Kohl Rabi|Azur|200 seed|no|
+leeks.html|Leek|Jaune de Poitou Yellow Leek (early)|400 seed|yes|RARE
+leeks.html|Leek|Long Giant Greek|approx 300 seed|no|TRIAL
+leeks.html|Leek|Giant Bulgarian Leek|400 seed|no|
+leeks.html|Leek|Monstrueux de Carentan Fat Leek|300 seed|yes|
+leeks.html|Leek|Winter Giant Leek|300 seed|no|
+leeks.html|Leek|Bleu de Solaise Blue Winter Leek|400 seed|no|
+lettuce.html|Lettuce|Red Iceberg|200 seed|yes|
+lettuce.html|Lettuce|Fairy Tales (Posavka)|400 seed|no|BOLT-RESISTANT
+lettuce.html|Lettuce|'Maximo' Giant Iceberg|300 seed|no|
+lettuce.html|Lettuce|Jack Ice|250 seed|yes|
+lettuce.html|Lettuce|Reine des Glaces|250 seed|yes|
+lettuce.html|Lettuce|Devils Tongue|250 seed|no|
+lettuce.html|Lettuce|Roden|300 seed|no|GUEST VARIETY
+lettuce.html|Lettuce|Dark Roden|350 seed|no|
+lettuce.html|Lettuce|Rossa di Trento|400 seed|no|
+lettuce.html|Lettuce|Australian Yellowleaf|300 seed|no|
+lettuce.html|Lettuce|Super Red Ruffles|200-250 seed|yes|
+lettuce.html|Lettuce|Emerald Oak|about 250 seed|no|
+lettuce.html|Lettuce|Flashy Butter Oak|at least 250 seed|no|
+lettuce.html|Lettuce|Optima|250 seed|yes|
+lettuce.html|Lettuce|The Mortons' Secret Mix|250 seed|yes|
+lettuce.html|Lettuce|Flaming Oakhearts Mix|200-250 seed|yes|
+lettuce.html|Winter Lettuce|Winter Marvel|350 seed|no|
+mustardgreens.html|Mustard Greens|Dragons Tongue|400 seed|yes|
+mustardgreens.html|Mustard Greens|'Nine Headed Bird' Cutting Greens|200 seed|yes|
+mustardgreens.html|Mustard Greens|Green Wave|200 seed|yes|
+mustardgreens.html|Mustard Greens|Osaka Purple|about 180 seed|yes|
+mustardgreens.html|Mustard Greens|'Golden Frills' Salad Mustard|200 seed|yes|
+mustardgreens.html|Mustard Greens|Wa Wa Ga Choi Stem Mustard|340 seed|yes|
+orientalgreens.html|Easy Asian Greens|'Tai Sai' White Stem Pak Choi|300 seed|yes|
+orientalgreens.html|Easy Asian Greens|'Santoh' Quick Yellow Pak Choi|200 seed|yes|
+orientalgreens.html|Easy Asian Greens|'Vibrant Joy' Purple Pak Choi|200 seed|yes|
+orientalgreens.html|Easy Asian Greens|'Wong Bok' Chinese Green|250 seed|yes|
+orientalgreens.html|Easy Asian Greens|'Bekana' Chinese Salad Cabbage|approx 200 seed|no|
+orientalgreens.html|Easy Asian Greens|Mispoona|200 seed|yes|LIMITED
+orientalgreens.html|Easy Asian Greens|Red Mizuna|400 seed|yes|
+orientalgreens.html|Easy Asian Greens|Mibuna|300 seed|yes|
+orientalgreens.html|Easy Asian Greens|Tatsoi|approx 300 seed|yes|
+orientalgreens.html|Easy Asian Greens|'Komatsuna' Japanese Green|200 seed|no|
+orientalgreens.html|Easy Asian Greens|Mizuna|500 seed|yes|
+unusualtubers.html|Oca|Mixed Oca|at least 5 tubers|yes|
+unusualtubers.html|Oca|Small Tubers Mixed Colours Oca|at least 10 tubers|yes|
+unusualtubers.html|Oca|Heirloom Pink Oca|5 tubers|yes|
+unusualtubers.html|Oca|Dylan Keatings|5 tubers|yes|
+unusualtubers.html|Oca|Scarlet Oca with White Eyes|5 tubers|yes|
+unusualtubers.html|Oca|Orange Oca with Red Eyes|5 tubers|yes|
+unusualtubers.html|Oca|New Zealand Red|6 tubers|yes|
+onions.html|Normal Bulb Onions|Red Amposta|350 seed|no|
+onions.html|Normal Bulb Onions|Carmen|300 seed|yes|RED
+onions.html|Normal Bulb Onions|'Temprana Babosa' Valencia Early Yellow Onion|300 seed|no|SWEET
+onions.html|Normal Bulb Onions|'Globo'|300 seed|no|EASY, HUGE
+onions.html|Normal Bulb Onions|Liria|250 seed|yes|
+onions.html|Normal Bulb Onions|Density IV|400 seed|no|LONG STORAGE
+onions.html|Onions for Growing Overwinter|'Early Pompeii' Bulbing Spring Onion|200 seed|no|OVERWINTERING
+onions.html|Onions for Growing Overwinter|'Winteria'|approx 250 seed|no|NEW
+onions.html|Shallots|Firenze Long Red|200 seed|no|
+onions.html|Shallots|Zebrune Shallot|200 seed|no|RARE
+onionsspecial.html|Salad / Bunching / Spring Onions|Japanese Single Stem Bunching Onion|300 seed|no|
+parsnips.html|Parsnip|Tender & True Parsnip|at least 200 seed|yes|
+peas.html|Dwarf Pea|Oskar|approx 150 seed|no|VERY EARLY
+peas.html|Dwarf Pea|Vladan Early|about 130-140 seed|no|
+peas.html|Dwarf Pea|American Wonder|approx 145 seed|no|TRULY DWARF
+peas.html|Dwarf Pea|Feltham First|about 120 seed|no|
+peas.html|Dwarf Pea|Kelvedon Wonder|approx 175 seed|no|
+peas.html|Dwarf Pea|Extra-Early Pedigree|100 seed|no|
+peas.html|Dwarf Pea|Lakeshore Half-tall Early Pea|about 120 seed|no|
+peas.html|Dwarf Pea|Charmette Dwarf Petit-Pois|40 seed|yes|
+peas.html|Climbing Pea|Serpette Guilloteau|55-65 seed|no|
+peas.html|Climbing Pea|Telephone Pea|about 150 seed|no|VERY TALL
+peas.html|Climbing Pea|Champion of England|approx 100 seed|no|
+peas.html|Climbing Pea|Lord Leicester|approx 50 seed|yes|
+peas.html|Climbing Pea|Magnum Bonum|approx 70 seed|yes|
+peas.html|Climbing Pea|Rosakrone|approx 50-55 seed|yes|
+peas.html|Mange-tout Pea|Bijou Giant Sugar Pea|approx 30-35 seed|yes|
+peas.html|Mange-tout Pea|Green Beauty Giant Sugar Pea|40-45 seed|no|
+peas.html|Mange-tout Pea|Golden Sweet|approx 80 seed|no|
+peas.html|Mange-tout Pea|Beauregarde Purple Mangetout|35 seed|yes|
+peas.html|Sugar-Snap Pea|Sugar Magnolia|about 30 seed|no|
+peas.html|Sugar-Snap Pea|Delikett|about 100 seed|no|
+peas.html|Parsley-Leaf Pea|Akacia|approx 25 seed|no|
+sweetpeppers.html|Sweet Pepper|'Dedo de Mocha' Sweet Aji|18 seed|yes|
+sweetpeppers.html|Sweet Pepper|Sweet Chocolate|18 seed|yes|
+sweetpeppers.html|Sweet Pepper|Napia|18 seed|yes|EARLY & PROLIFIC
+sweetpeppers.html|Sweet Pepper|Lipstick|14 seed|yes|
+sweetpeppers.html|Sweet Pepper|Kaibi Round|18 seed|yes|
+sweetpeppers.html|Sweet Pepper|Amy (Pale Yellow)|18 seed|no|
+sweetpeppers.html|Sweet Pepper|Semaroh|18 seed|no|
+sweetpeppers.html|Sweet Pepper|Slovakia|25 seed|no|
+sweetpeppers.html|Sweet Pepper|'Orange Horizon'|16 seed|no|
+sweetpeppers.html|Sweet Pepper|Zitava Sweet Paprika|20 seed|no|
+sweetpeppers.html|Sweet Pepper|Sweet Spirals|16 seed|yes|
+hotpeppers.html|Hot Pepper|'Chocolate Brown' Rocoto|10 seed|no|
+hotpeppers.html|Hot Pepper|Prairie Fire|12 seed|no|
+hotpeppers.html|Hot Pepper|Black Hungarian|14 seed|yes|
+hotpeppers.html|Hot Pepper|Kristian|22 seed|no|
+hotpeppers.html|Hot Pepper|Pyramid|16 seed|yes|
+hotpeppers.html|Hot Pepper|Ohnivec|18 seed|no|
+hotpeppers.html|Hot Pepper|Pretty in Purple|18 seed|no|
+hotpeppers.html|Hot Pepper|Chinese Dragon Tongue|12 seed|no|
+hotpeppers.html|Hot Pepper|Red Basque Chilli|18 seed|no|
+hotpeppers.html|Hot Pepper|Early Green Jalapeño|20 seed|no|
+hotpeppers.html|Hot Pepper|'Padron' Pepper|18 seed|yes|
+hotpeppers.html|Hot Pepper|'Palivec' Medium-hot Chilli|18 seed|yes|
+hotpeppers.html|Hot Pepper|Nigel's Outdoors Chilli|14 seed|yes|
+hotpeppers.html|Hot Pepper|Yellow Traveller Locoto|8 seed|yes|NEW
+hotpeppers.html|Hot Pepper|Alberto's Locoto|12 seed|yes|
+hotpeppers.html|Hot Pepper|'Lemon Drop'|16 seed|yes|
+radish.html|Winter Cooking Radishes|Black Round Winter Radish|250 seed|yes|
+radish.html|Winter Cooking Radishes|'Green Luobo' Mild Winter Radish|120 seed|yes|
+radish.html|Winter Cooking Radishes|'Red Flesh' Mild Tricolour Winter Radish|about 160 seed|no|
+radish.html|Salad Radishes|Sicily Giant|4g seed|no|
+radish.html|Salad Radishes|Mystery Mix of Radishes|4g seed|no|
+radish.html|Salad Radishes|'Pernot Clair' Salad Radish|400 seed|no|
+radish.html|Special Radishes|Rat-tail Radish|60 seed|yes|
+salads.html|Wonderful Salad Plants|'Mild' Cultivated Rocket|about 1000 seed|yes|
+cookinggreens.html|Chard|Lucullus Savoy Chard|250 seed|no|HUGE
+cookinggreens.html|Chard|Rhubarb-Red Chard|approx 150 seed|no|
+cookinggreens.html|Chard|Candy-Striped Chard|approx 200 seed|yes|
+cookinggreens.html|Chard|Golden Chard|at least 100 seed|yes|
+cookinggreens.html|Chard|Pink Passion Chard|at least 80 seed|yes|
+cookinggreens.html|Chard|Fordhook Giant Chard|250 seed|no|
+cookinggreens.html|Chard|Leaf Beet (Perpetual Spinach)|300 seed|no|
+cookinggreens.html|Spinach|Black Magic Summer Spinach|400 seed|no|NEW TRIAL VARIETY
+cookinggreens.html|Spinach|'Securo' Summer Spinach|400 seed|no|
+cookinggreens.html|Spinach|'Monstreux de Viroflay' Giant Winter Spinach|500 seed|no|
+cookinggreens.html|Spinach|'Winter Giant' Spinach|500 seed|yes|
+wintersquash.html|Winter Squash|White Pearl|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|Whangapora Crown|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|Sam Bicolour|10 seed|no|
+wintersquash.html|Winter Squash|Blue Hungarian|10 seed|no|
+wintersquash.html|Winter Squash|Buen Gusto del Horno|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|'Cream of the Crop' Vine Acorn Squash|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|Totanera|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|Montillo|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|Butterbush|12 seed|no|NEW
+wintersquash.html|Winter Squash|Bush Table Queen|12 seed|no|COMPACT
+wintersquash.html|Winter Squash|Table Queen (vine)|12 seed|no|
+wintersquash.html|Winter Squash|Jumbo Pink Banana|12 seed|no|
+wintersquash.html|Winter Squash|Stellar Blue||no|GUEST VARIETY
+wintersquash.html|Winter Squash|Boston Squash|12 seed|no|
+wintersquash.html|Winter Squash|Golden Hubbard|12 seed|no|
+wintersquash.html|Winter Squash|Sibley Squash|12 seed|yes|
+wintersquash.html|Winter Squash|North Georgia Candy Roaster|10 seed|no|
+wintersquash.html|Winter Squash|Australian Butter|10 seed|no|GUEST VARIETY
+wintersquash.html|Winter Squash|Pacific Giant|12 seed|no|
+wintersquash.html|Winter Squash|Garbo|10 seed|no|
+wintersquash.html|Winter Squash|White Turban|10 seed|no|
+wintersquash.html|Winter Squash|Victor|12 seed|no|
+wintersquash.html|Winter Squash|Piacenza Beret|12 seed|no|
+wintersquash.html|Winter Squash|Winter Luxury Pumpkin|12 seed|no|
+wintersquash.html|Winter Squash|Blue Banana|10 seed|yes|VERY RARE
+wintersquash.html|Winter Squash|Volskaya Grey|8 seed|no|
+wintersquash.html|Winter Squash|'Anna Swartz' Hubbard|12 seed|no|
+wintersquash.html|Winter Squash|Queensland Blue|10 seed|no|
+wintersquash.html|Winter Squash|Hokkaido|12 seed|no|
+wintersquash.html|Winter Squash|Waltham Butternut|12 seed|no|
+wintersquash.html|Winter Squash|Blue Hubbard Squash||no|
+wintersquash.html|Winter Squash|Burgess Vine Buttercup|10 seed|no|
+swedes.html|Swede|'Champion' Red Top|300 seed|no|
+swedes.html|Swede|Joan|300 seed|yes|
+sweetcorn.html|Sweet Corn|Double Red Sweetcorn|approx 45-50 seed|no|
+sweetcorn.html|Sweet Corn|'Double Standard' Bicolour Sweetcorn|approx 50 seed|no|EARLY
+sweetcorn.html|Sweet Corn|Special Swiss Sweetcorn|approx 50 seed|yes|
+tomatoes_bush.html|Bush Tomatoes|Urbikany|20 seed|yes|
+tomatoes_bush.html|Bush Tomatoes|Aurora|22 seed|yes|
+tomatoes_bush.html|Bush Tomatoes|Buckflats Wonder|20 seed|no|NEW
+tomatoes_bush.html|Bush Tomatoes|Grushovka|18 seed|yes|
+tomatoes_bush.html|Bush Tomatoes|Latah|20 seed|yes|
+tomatoes_bush.html|Bush Tomatoes|House Tomato|approx 20 seed|no|NEW
+tomatoes_vines.html|Vine Tomatoes (cherries)|Gardeners Delight (Irish version)|20 seed|no|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Galina|20 seed|no|SUPER-EARLY
+tomatoes_vines.html|Vine Tomatoes (cherries)|Millefleur|20 seed|yes|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Stupice|22 seed|no|EARLY
+tomatoes_vines.html|Vine Tomatoes (cherries)|Gardeners' Ecstasy|18 seed|no|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Jen's Tangerine|22 seed|yes|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Chadwick Cherry|20 seed|no|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Chocolate Cherry|20 seed|no|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Blue Fire|20 seed|no|
+tomatoes_vines.html|Vine Tomatoes (cherries)|Primabella|18 seed|yes|BLIGHT RESISTANT
+tomatoes_vines.html|Vine Tomatoes (cherries)|Sunviva Tall Vine Tomato|14 seed|yes|GUEST VARIETY
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Brandywine|20 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|De Colgar|20 seed|yes|KEEPING TOMATO
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Costoluto Genovese|22 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Orange Banana|22 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|'Reisetomate' Pocketbook Tomato|20 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|'Mucho Miel' Giant Salad Type|20 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Gigante Liscio|20 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Costoluto Fiorentino|25 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Green Zebra|20 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|'Rose de Berne' Pink Salad Tomato|20 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Red Zebra|20 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Cuban Flower Red Beefsteak|20 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Dr Carolyn Pink Big Cherry|20 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Amish Paste|16 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Purple Ukraine|18 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Ruby|20 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Ethel Watkins' Best|18 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Skykomish|18 seed|no|GOOD FLAVOUR
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Feo de Rio Gordo|16 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Home Stoop|18 seed|no|NEW
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Estate|20 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Belarusian Heart|18 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Lotos|18 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Peche Vilmorin|18 seed|no|STUFFING OR SAUCE
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Moskvich|20 seed|no|HARDY
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Wentzell|18 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Czech Breast|18 seed|no|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Blue Beauty|16 seed|yes|
+tomatoes_vines_big.html|Vine Tomatoes (larger)|Pink Dreams|16 seed|no|NEW
+tomatoes_vines_big.html|Vine Tomatoes (larger)|'Outdoor Survivors' Mix|20 seed|yes|FOR GROWING OUTDOORS
+tomatoes_vines_big.html|Vine Tomatoes (larger)|San Marzano|20 seed|no|
+turnips.html|First-early Turnips|Navet de Nancy|about 300 seed|yes|
+turnips.html|First-early Turnips|White 40 Day Turnip|500 seed|no|
+turnips.html|Turnips|'Long White' Conical Winter Turnip|350 seed|no|
+turnips.html|Turnips|Norfolk Purple Turnip|500 seed|no|
+turnips.html|Turnips|Petrowski|about 400 seed|yes|
+turnips.html|Turnips|Giant Limousin|at least 400 seed|yes|
