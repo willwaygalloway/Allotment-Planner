@@ -77,7 +77,7 @@ const CROPS = [
    huw:H([3,4],[3,4],[4,6],[11,12]), tip:"Start tubers in pots under cover and plant after the last frost. Tubers swell only after the autumn equinox, so lift late."},
   {id:"onions-seed", name:"Onions from seed", fam:"alliums", how:"module", sp:25, th:18, hw:3,
    huw:H([2,3],[2,3],[4,4],[7]), rs:R("1b-3b","1a,4a","7b-9a"), tip:"Multisow 4–6 seeds per module and plant each clump as one."},
-  {id:"onions-sets", name:"Onions from sets", fam:"alliums", how:"sets", sp:12, th:15, hw:3,
+  {id:"onions-sets", name:"Onions from sets", fam:"alliums", how:"sets", sp:12, th:16, hw:3,
    huw:H([2,3],[2,3],[4,6],[7]), tip:"Huw starts sets in modules under cover and plants them out after 4–6 weeks; you can also push them straight into the soil in March."},
   {id:"napa", name:"Chinese cabbage", fam:"brassicas", how:"module", sp:35, th:8, hw:4,
    huw:H([6,7],[],[4,4],[8,9,10]), tip:"Sow after midsummer to stop it bolting."},
@@ -126,6 +126,47 @@ const CROPS = [
   {id:"turnips", name:"Turnips", fam:"brassicas", how:"module", sp:20, th:7, hw:5, succ:5,
    huw:H([4,5,6,7,8],[],[3,4],[6,7,8,9,10,11,12]), rs:R("3b-6b","3a,7a","7a-10a","10b-12b"), tip:"Multisow 4 seeds per module, or sow direct."}
 ];
+/* ---------- how easy, how much, how often ----------
+   level: "easy" = staples and easy to grow, "try" = a bit more care, "skill" = needs warmth, space,
+   a long season or pest protection. Based on Which? Gardening's easiest veg (lettuce, beans,
+   courgettes, tomatoes, potatoes), the RHS's note that cabbages are slow and space-hungry, and
+   Real Seeds' growing notes.
+   eat: [portion g per meal for a two-person household, meals a week, weeks a year you'd eat it,
+         yield kg per m²]. Where Will's 2026 "How much food" sheet has a figure it is used here.
+   keep: months it stores (0 = eat fresh). succ / sowings: weeks between repeat sowings and the
+   most sowings worth planning, following Charles Dowding and the RHS on successional sowing. */
+const GUIDE = {
+  "potato-early":{level:"easy", eat:[1000,1,6,9], keep:0}, "potato-second":{level:"easy", eat:[1000,1,8,9], keep:0}, "potato-main":{level:"easy", eat:[1000,1,30,9], keep:6},
+  "onions-sets":{level:"easy", eat:[250,2,52,12], keep:9}, "onions-seed":{level:"try", eat:[250,2,52,12], keep:9}, "garlic":{level:"easy", eat:[30,2,52,2.5], keep:10}, "shallots":{level:"easy", eat:[100,1,30,6], keep:9},
+  "bean-broad":{level:"easy", eat:[200,1,8,1.5], keep:0}, "bean-runner":{level:"easy", eat:[250,1,12,3], keep:0}, "bean-bush":{level:"easy", eat:[200,1,10,1.5], keep:0, succ:6, sowings:2}, "bean-climbing":{level:"easy", eat:[200,1,10,2], keep:0},
+  "peas":{level:"easy", eat:[150,1,8,1], keep:0, succ:4, sowings:3},
+  "courgettes":{level:"easy", eat:[300,1,16,6], keep:0, succ:8, sowings:2}, "squash-summer":{level:"easy", eat:[300,1,10,5], keep:0},
+  "tomatoes":{level:"easy", eat:[300,2,12,15], keep:0},
+  "lettuce":{level:"easy", eat:[100,1,30,7], keep:0, succ:3, sowings:5}, "radish":{level:"easy", eat:[100,1,12,1.5], keep:0, succ:2, sowings:6},
+  "beetroot":{level:"easy", eat:[300,1,20,6.25], keep:4, succ:4, sowings:3}, "chard":{level:"easy", eat:[200,1,30,4], keep:0, succ:12, sowings:2},
+  "kale":{level:"easy", eat:[200,1,30,6], keep:0}, "leeks":{level:"easy", eat:[200,1,20,9], keep:0},
+  "rocket":{level:"easy", eat:[100,1,20,3], keep:0, succ:3, sowings:4}, "spring-onion":{level:"easy", eat:[100,1,16,8], keep:0, succ:4, sowings:3}, "mustards":{level:"easy", eat:[100,1,20,2], keep:0, succ:3, sowings:3},
+  "carrots":{level:"try", eat:[300,1,25,10], keep:5, succ:5, sowings:3}, "parsnips":{level:"try", eat:[300,1,16,3], keep:0},
+  "spinach":{level:"try", eat:[150,1,20,2], keep:0, succ:4, sowings:3}, "squash-winter":{level:"try", eat:[1000,1,30,6], keep:6},
+  "cucumbers":{level:"try", eat:[400,1,12,12], keep:0}, "sweetcorn":{level:"try", eat:[300,1,6,1.2], keep:0, succ:4, sowings:2},
+  "calabrese":{level:"try", eat:[400,1,8,1.8], keep:0, succ:6, sowings:2}, "kohlrabi":{level:"try", eat:[200,1,10,3], keep:2, succ:5, sowings:3},
+  "turnips":{level:"try", eat:[200,1,10,3], keep:2, succ:5, sowings:3}, "swede":{level:"try", eat:[400,1,16,4], keep:3},
+  "fennel":{level:"try", eat:[300,1,10,7.2], keep:0}, "pak-choi":{level:"try", eat:[150,1,10,3], keep:0, succ:3, sowings:3},
+  "coriander":{level:"try", eat:[20,2,20,1], keep:0, succ:3, sowings:4}, "dill":{level:"try", eat:[20,1,12,1], keep:0, succ:4, sowings:3}, "parsley":{level:"try", eat:[20,2,30,2], keep:0},
+  "chicory":{level:"try", eat:[150,1,12,2], keep:0}, "radish-winter":{level:"try", eat:[200,1,12,3], keep:2},
+  "aubergine":{level:"skill", eat:[300,1,10,6], keep:0}, "peppers":{level:"skill", eat:[300,2,12,2.4], keep:0}, "basil":{level:"skill", eat:[20,2,12,1], keep:0, succ:4, sowings:2},
+  "celery":{level:"skill", eat:[300,1,10,4], keep:0}, "celeriac":{level:"skill", eat:[400,1,12,4], keep:3},
+  "cauliflower":{level:"skill", eat:[500,1,6,5], keep:0}, "cauliflower-winter":{level:"skill", eat:[500,1,6,3], keep:0},
+  "cabbage-spring":{level:"skill", eat:[400,1,8,4], keep:0}, "cabbage-summer":{level:"skill", eat:[400,1,10,4], keep:0}, "cabbage-winter":{level:"skill", eat:[400,1,14,4], keep:0},
+  "sprouts":{level:"skill", eat:[250,1,12,1.5], keep:0}, "psb-summer":{level:"skill", eat:[250,1,8,1], keep:0}, "psb-early":{level:"skill", eat:[250,1,8,1], keep:0},
+  "napa":{level:"skill", eat:[400,1,6,3], keep:0}, "oca":{level:"skill", eat:[300,1,8,2], keep:3}, "salsify":{level:"skill", eat:[200,1,10,2], keep:0}
+};
+/* Dowding's second crops: what follows well when a crop is cleared */
+const FOLLOWS = {"potato-early":["leeks","lettuce","beetroot"], "potato-second":["leeks","lettuce","beetroot"], "onions-sets":["chicory","spinach"], "onions-seed":["chicory","spinach"], "beetroot":["celery","spinach"], "carrots":["kale","cabbage-spring","calabrese"], "courgettes":["spring-onion","cabbage-spring"], "bean-climbing":["garlic"], "bean-runner":["garlic"], "squash-winter":["garlic"], "garlic":["leeks","carrots","beetroot"], "bean-broad":["leeks","kale"], "peas":["leeks","kale","fennel"], "lettuce":["fennel","bean-bush","beetroot"], "radish":["bean-bush","courgettes"]};
+/* Dowding: these are best sown at particular times rather than all season */
+const TIMING = {"lettuce":"Dowding finds spring and early-summer sowings do best; late-summer sowings are prone to mildew.", "spinach":"Spring sowings bolt in summer. A late-August sowing gives leaves through autumn and winter (Dowding).", "fennel":"A late-July sowing makes better bulbs than spring sowings, which tend to bolt (Dowding).", "peas":"Spring sowings crop best; summer sowings tend to mildew (Dowding).", "bean-broad":"Best sown in spring, or in late autumn to overwinter.", "spring-onion":"Spring sowings do best (Dowding).", "chicory":"Sow in late summer for autumn and winter leaves.", "rocket":"Late-summer sowings last longest; spring ones flower fast."};
+CROPS.forEach(c => { const g = GUIDE[c.id] || {level:"try", eat:[200,1,10,2], keep:0}; c.level = g.level; c.eat = g.eat; c.keep = g.keep; if(g.succ){ c.succ = g.succ; c.sowings = g.sowings; } else if(c.succ){ c.sowings = 3; } c.follows = FOLLOWS[c.id] || []; c.timing = TIMING[c.id] || ""; });
+const LEVELS = [["easy", "Staples & easy to grow", "Start here. Reliable crops that forgive a few mistakes."], ["try", "Worth a try", "A bit more care: steady watering, thinning, or a pest to watch for."], ["skill", "For when you’re confident", "Need warmth, a long season, lots of space or netting against pests."]];
 const FAMILIES = {potatoes:"Potatoes", legumes:"Peas & beans", brassicas:"Cabbage family", roots:"Roots", alliums:"Onion family", solanaceae:"Tomato family", cucurbits:"Squash family", salads:"Salads & leaves", herbs:"Herbs", other:"Other"};
 const POPULAR = ["lettuce","radish","beetroot","carrots","bean-bush","bean-runner","peas","courgettes","tomatoes","potato-early","onions-sets","garlic","kale","spinach","leeks","chard"];
-if(typeof module !== "undefined") module.exports = {CROPS, FAMILIES, POPULAR};
+if(typeof module !== "undefined") module.exports = {CROPS, FAMILIES, POPULAR, LEVELS};

@@ -40,16 +40,20 @@ A simple, free planner for an allotment or veg beds. It tells you when to sow, p
 | `full/` | The advanced planner (nursery trays, quantities, plan versions, exports). It keeps its own separate plan. |
 | `fonts/` | Self-hosted fonts (SIL Open Font Licence, see `fonts/licences`), so nothing loads from Google |
 
+## How the planner works
+
+1. **Where you grow** sets your frost dates, which shift every sowing date.
+2. **Sections and beds**: beds are grouped into sections and named 1A, 1B… 2A, 2B… The default bed is 6 × 4 ft (1.8 × 1.2 m). You can set a size for a whole section at once, or copy one bed's size to the rest of its section.
+3. **What to grow**: crops are grouped as *Staples & easy to grow*, *Worth a try* and *For when you're confident*. You can pick a Real Seeds variety for each one.
+4. **How much**: you choose meals a week, how long and portion size. kg = portion × meals a week × weeks × 1.2, then area = kg ÷ typical yield.
+   - Salads and roots such as lettuce, radish and beetroot are split into several smaller sowings a few weeks apart, following Charles Dowding's and the RHS's advice on succession sowing.
+5. **Review**: shows where everything goes before the plan starts. Small sowings can share part of a bed.
+
+The **Calendar** tab shows the year at a glance (sow, plant out, picking) plus a month-by-month list. It prints on one landscape page.
+
 ## Adding features later
 
-The simple planner is deliberately small: one crop guide and three screens. Good next steps, roughly in order:
-
-1. Seed list
-2. Harvest log
-3. "How much to grow"
-4. Nursery tray counts
-
-The advanced planner in `full/` already has working versions of all of these to borrow from.
+Good next steps: a seed list, a harvest log, and nursery tray counts. The advanced planner in `full/` already has working versions to borrow from.
 
 ## Using your own plan
 
@@ -57,6 +61,7 @@ Plan files from the advanced planner (`allotment-plan.json`) open in the simple 
 
 ## Credits
 
+- Succession sowing: [Charles Dowding](https://www.charlesdowding.co.uk/lessons/succession-and-rotation) and the [RHS](https://www.rhs.org.uk/advice/profile?PID=730). Easy crops: [Which? Gardening](https://www.which.co.uk/reviews/grow-your-own/article/growing-vegetables/the-five-easiest-vegetables-to-grow).
 - Sowing and harvest months: Huw Richards, *Master Vegetable Sowing List* and *One Bed, More Harvests* (Productive Planting Plan 2.0).
 - [Real Seeds Sowing and Harvesting Calendar](https://realseeds.co.uk/Printablesowing.html) and [catalogue](https://realseeds.co.uk/).
 - Growing times are typical figures. Varieties, soil and weather decide the actual day.

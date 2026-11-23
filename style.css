@@ -171,3 +171,45 @@ main{padding-top:22px}
 @media (max-width:560px){.bed-edit{grid-template-columns:1fr 1fr;border-bottom:1px solid var(--rule);padding-bottom:10px}}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 @media print{.top,.nav,.toast,.no-print{display:none !important}body{background:#fff;padding:0}.card,.bed{box-shadow:none;break-inside:avoid}}
+/* v2: header gear, sections, levels, amounts, year calendar */
+.top .wrap{position:relative}
+.gear{background:none;border:0;color:var(--ink-2);padding:8px;border-radius:10px;cursor:pointer;display:grid;place-items:center}
+.gear svg{width:22px;height:22px}.gear[aria-current="page"]{color:var(--leaf);background:var(--sheet-2)}
+.section-h{font-size:18px;margin:18px 0 8px}
+.level{margin:16px 0}.level h3{font-size:16px}
+.picked{display:grid;gap:8px}
+.pick-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:8px 10px;border:1px solid var(--rule);border-radius:10px}
+.pick-row b{min-width:110px}.pick-row select{flex:1;min-width:160px}.pick-row input{flex:1 1 100%}
+.amount{display:grid;gap:10px;margin:8px 0}.amount .chips{margin-top:4px}
+.amount-card{padding:14px}.amount-out{font-weight:600;margin:6px 0 4px}
+.section-card{padding:14px}.sec-top{display:flex;gap:10px;align-items:flex-end}
+.bed-list{display:grid;gap:6px;margin:12px 0}
+.bed-row{display:flex;flex-wrap:wrap;gap:6px;align-items:center;padding:6px 8px;border:1px solid var(--rule);border-radius:10px}
+.bed-row .bn{width:70px;font-weight:700}.bed-row .dim{display:flex;align-items:center;gap:4px;font-size:14px}
+.bed-row .dim input{width:64px}.bed-row select{width:auto}
+.rev-bed{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:baseline;padding:8px 0;border-top:1px solid var(--rule)}
+.rev-bed>b{min-width:44px}.rev-item{display:inline-flex;gap:5px;align-items:center;font-size:14px}
+.cal-card{padding:12px}.cal-wrap{overflow-x:auto}
+table.year{border-collapse:collapse;width:100%;min-width:720px;font-size:12px}
+table.year th,table.year td{border:1px solid var(--rule);padding:0}
+table.year thead th{font-family:var(--f-mono);font-weight:400;color:var(--ink-3);padding:3px 0;text-align:center}
+table.year tbody th{text-align:left;padding:4px 6px;font-weight:700;white-space:nowrap;min-width:130px}
+table.year tbody th small{font-weight:400;color:var(--ink-3)}
+table.year tbody th .where{display:block;font-size:10.5px}
+table.year td{width:3.2%;height:24px;text-align:center;font-weight:700;font-size:10px;color:#fff}
+table.year td.g{background:#D7EBD9}table.year td.h{background:#F2B25C}
+table.year td.s{background:#3E9A5A}table.year td.p{background:#3F86C6}
+table.year tbody tr{cursor:pointer}table.year tbody tr:hover th{background:var(--sheet-2)}
+.legend .lg{display:inline-block;width:14px;height:12px;border-radius:2px;vertical-align:middle;margin-right:4px}
+.lg.s{background:#3E9A5A}.lg.p{background:#3F86C6}.lg.g{background:#D7EBD9}.lg.h{background:#F2B25C}
+.months-list{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));margin-top:14px}
+.mcard{padding:12px}.mcard ul{list-style:none;padding:0;margin:6px 0 0;display:grid;gap:5px;font-size:14px}
+@media print{
+  @page{size:A4 landscape;margin:10mm}
+  .gear,.sheet-wrap,#link-banner{display:none !important}
+  table.year{min-width:0;font-size:9px}table.year td{height:15px}
+  table.year td,table.year th{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .lg,.track i,.part{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  .months-list{grid-template-columns:repeat(4,1fr);gap:6px}.mcard{padding:6px;font-size:11px}
+  .cal-wrap{overflow:visible}
+}
